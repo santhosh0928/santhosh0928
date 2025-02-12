@@ -5,16 +5,16 @@
 <h1 align="center">WELCOME TO MY GITHUB PROFILE</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100" />
-  <img src="https://media.giphy.com/media/4H3Ii5eLChYul9pP5a/giphy.gif" width="100" />
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif" width="100" />
 </p>
 
 ---
 
 ### 🚧 UNDER CONSTRUCTION 🚧
 
-![Under Construction](https://media.giphy.com/media/3o7TKQEn3lAy4WPJ1e/giphy.gif)
+![Under Construction](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
 ---
 
@@ -56,7 +56,7 @@
 🔗 [Check out the case study](https://yourportfolio.com/vaultix)  
 🎨 **Tech Used**: React, Framer, Lottie Animations
 
-![Vaultix Preview](https://yourimageurl.com/preview.gif)
+![Vaultix Preview](https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif)
 
 ### **Westayclose - Healthcare Web App**
 A healthcare platform ensuring easy **pharma, lab tests, and consultations**.
@@ -64,7 +64,7 @@ A healthcare platform ensuring easy **pharma, lab tests, and consultations**.
 🔗 [See Project](https://yourportfolio.com/westayclose)  
 🛠️ **Built With**: React.js, MongoDB, Tailwind, Spring Boot
 
-![Westayclose Preview](https://yourimageurl.com/demo.gif)
+![Westayclose Preview](https://media.giphy.com/media/l41Yd0nTnoDPUy3hS/giphy.gif)
 
 ---
 
@@ -83,9 +83,9 @@ A healthcare platform ensuring easy **pharma, lab tests, and consultations**.
 ## 🎬 Latest Animations
 
 <p align="center">
-  <img src="https://youranimationlink.com/animation1.gif" width="500px"/>
-  <img src="https://youranimationlink.com/animation2.gif" width="500px"/>
-  <img src="https://youranimationlink.com/animation3.gif" width="500px"/>
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="500px"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500px"/>
+  <img src="https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif" width="500px"/>
 </p>
 
 🔗 **See More on My [Portfolio](https://pradeesh.com)**
@@ -105,10 +105,10 @@ A healthcare platform ensuring easy **pharma, lab tests, and consultations**.
 ## 🔥 Retro Vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/3oz8xLDG9y8JH82DU4/giphy.gif" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://yourretrobadgeurl.com/badge1.png" />
-  <img src="https://yourretrobadgeurl.com/badge2.png" />
+  <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
 </p>
