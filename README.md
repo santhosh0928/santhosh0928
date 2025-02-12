@@ -2,7 +2,10 @@
 
 ---
 
-<h1 align="center">WELCOME TO MY GITHUB PROFILE</h1>
+<h1 align="center">
+  <img src="https://flamingtext.com/net-fu/proxy_form.cgi?script=flaming-logo&text=WELCOME%20TO%20MY%20GITHUB%20PROFILE&fontsize=50&fillTextType=gradient&fillTextPattern=fire" alt="Fire Font" />
+</h1>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" />
@@ -41,10 +44,6 @@
 ---
 
 ## ✨ GitHub Stats & Streaks
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhosh0928&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhosh0928&theme=dracula" alt="GitHub Summary"/>
