@@ -85,7 +85,7 @@
 
 ## **🌎 FOLLOW ME**
 <p align="center">
-  <a href="https://www.linkedin.com/in/santhosh0928/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/santhosh-d-166402228/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:santhoshsiva567@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
 
