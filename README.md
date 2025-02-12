@@ -1,44 +1,42 @@
 <!-- ███████████████████████████████████ -->
-<!-- 🚀 ULTRA RETRO GITHUB README 🚀 -->
+<!-- 🚀 100% RETRO GITHUB README 🚀 -->
 <!-- ███████████████████████████████████ -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=2500&color=FF00FF&center=true&vCenter=true&width=600&lines=🎮+WELCOME+TO+MY+GITHUB!;🔥+HACKER+MODE+ENGAGED!;💾+LOADING+NEON+FILES...;⚡+GLITCH+ANIMATIONS+ONLINE!;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=2500&color=FF00FF&center=true&vCenter=true&width=800&lines=🔥+WELCOME+TO+MY+GITHUB+PROFILE!;💀+UNDER+CONSTRUCTION+MODE!;💾+LOADING+COOL+STUFF...;">
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/TfX2SYz8F6mCjGySYh/giphy.gif" width="600px">
+  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="600px">
 </p>
 
 ---
 
-## 🛠 **UNDER CONSTRUCTION**
+## **🚧 UNDER CONSTRUCTION 🚧**
 <p align="center">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="150px">
   <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-e1dc-4d9c-bf99-17f70dd64d98.gif" width="500px">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/master/files/under-construction.gif">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="150px">
 </p>
 
 ---
 
 ## **🦄 I LOVE CODE & UNICORNS**
 <p align="center">
-  <img src="https://media.giphy.com/media/13YPN3m74w5JwE/giphy.gif" width="100px">
-  <img src="https://media.giphy.com/media/3o7TKsQjFiJR9wbTxK/giphy.gif" width="100px">
+  <img src="https://media.giphy.com/media/13YPN3m74w5JwE/giphy.gif" width="150px">
+  <img src="https://media.giphy.com/media/3o7TKsQjFiJR9wbTxK/giphy.gif" width="150px">
 </p>
 
 ---
 
-## **🔥 HACKER MODE ENGAGED**
+## **🔥 THE FLOOR IS LAVA 🔥**
 <p align="center">
-  <img src="https://media.giphy.com/media/J3IX2hyEgPfdH9fXXD/giphy.gif" width="600px">
+  <img src="https://media.giphy.com/media/3o7TKP9lnKxyJj3nCE/giphy.gif" width="600px">
 </p>
 
 ---
 
-## 🚀 **Latest Cyber Projects**
+## **💾 LOADING SYSTEM...**
 🖥️ **Retro Websites**  
 🎮 **Glitchy Games**  
 💾 **Pixel Art Animation**  
@@ -56,7 +54,7 @@
 
 ## **🔥 BURNING EFFECTS**
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/199138068-0a7b7b75-e1dc-4d9c-bf99-17f70dd64d98.gif">
+  <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif">
 </p>
 
 ---
