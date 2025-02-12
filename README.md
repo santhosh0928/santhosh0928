@@ -1,9 +1,9 @@
-<!-- ███████████████████████████████████ -->
-<!-- 🚀 100% RETRO GITHUB README 🚀 -->
-<!-- ███████████████████████████████████ -->
+<!-- ████████████████████████████████ -->
+<!-- 🚀 THE ULTIMATE RETRO GITHUB README 🚀 -->
+<!-- ████████████████████████████████ -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=2500&color=FF00FF&center=true&vCenter=true&width=800&lines=🔥+WELCOME+TO+MY+GITHUB+PROFILE!;💀+UNDER+CONSTRUCTION+MODE!;💾+LOADING+COOL+STUFF...;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=2500&color=FF00FF&center=true&vCenter=true&width=800&lines=🔥+WELCOME+TO+THE+MATRIX!;💀+HACKING+INTO+GITHUB+SERVERS;💾+BOOTING+RETRO+MODE...;🔓+ACCESS+GRANTED!">
 </h1>
 
 <p align="center">
