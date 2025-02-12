@@ -43,10 +43,8 @@
 ## ✨ GitHub Stats & Streaks
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=santhosh0928&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=santhosh0928&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
-
-
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhosh0928&theme=dracula" alt="GitHub Summary"/>
