@@ -67,7 +67,9 @@ A healthcare platform ensuring easy **pharma, lab tests, and consultations**.
 ## 🎬 Latest Animations
 
 <p align="center">
-  <img src="https://youranimationlink.com/animation.gif" width="500px"/>
+  <img src="https://youranimationlink.com/animation1.gif" width="500px"/>
+  <img src="https://youranimationlink.com/animation2.gif" width="500px"/>
+  <img src="https://youranimationlink.com/animation3.gif" width="500px"/>
 </p>
 
 🔗 **See More on My [Portfolio](https://pradeesh.com)**
