@@ -43,7 +43,9 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,html,css,js,ts,threejs,python,java,php-laravel,sql" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,sql,mongodb,php" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="50" height="50"/>
 </p>
 
 ---
