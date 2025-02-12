@@ -40,12 +40,22 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## ✨ GitHub Stats & Streaks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,sql,mongodb,php" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="50" height="50"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh0928&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhosh0928&theme=dracula" alt="GitHub Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=santhosh0928&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh0928&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -84,8 +94,17 @@
 
 ## 🔥 Retro Vibes
 
+<p align="center">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="400" alt="Retro Computer"/>
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="400" alt="Pixel Sunset"/>
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" />
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
+  <img src="https://media.giphy.com/media/l3q2Ip7FrmPEuP6P2/giphy.gif" width="400" alt="Retro Neon Grid"/>
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="400" alt="Retro Gaming"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/8UGGp7rQvfhe63HrTz/giphy.gif" width="400" alt="Old-School Monitor"/>
+  <img src="https://media.giphy.com/media/1msBXcxqUcrcO/giphy.gif" width="400" alt="80s Synthwave"/>
 </p>
