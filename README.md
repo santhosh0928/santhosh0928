@@ -1,8 +1,5 @@
 
-
----
-
-<<h1 align="center">🔥 WELCOME TO MY GITHUB PROFILE 🔥</h1>
+<h1 align="center">🔥 WELCOME TO MY GITHUB PROFILE 🔥</h1>
 
 
 
