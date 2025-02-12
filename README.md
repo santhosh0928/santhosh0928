@@ -21,7 +21,9 @@
 ---
 
 ## **🔥 The Floor is Lava! 🔥**
-![Lava](https://media.giphy.com/media/kd7Wm7Giw1XvCOYXjK/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/kd7Wm7Giw1XvCOYXjK/giphy.gif" width="500" />
+</p>
 
 ---
 
@@ -33,3 +35,10 @@
 ---
 
 ## **💻 SYSTEM LOADING...**
+```diff
+█▒▒▒▒▒▒▒▒▒ 10%  
+███▒▒▒▒▒▒▒ 30%  
+█████▒▒▒▒▒ 50%  
+███████▒▒▒ 80%  
+██████████ 100%  
+🚀 SYSTEM ONLINE!
