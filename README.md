@@ -2,9 +2,8 @@
 
 ---
 
-<h1 align="center">
-  <img src="https://flamingtext.com/net-fu/proxy_form.cgi?script=flaming-logo&text=WELCOME%20TO%20MY%20GITHUB%20PROFILE&fontsize=50&fillTextType=gradient&fillTextPattern=fire" alt="Fire Font" />
-</h1>
+<<h1 align="center">🔥 WELCOME TO MY GITHUB PROFILE 🔥</h1>
+
 
 
 <p align="center">
