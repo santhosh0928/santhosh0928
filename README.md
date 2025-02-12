@@ -37,6 +37,10 @@
 ---
 
 ## **💾 LOADING SYSTEM...**
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZsXR2zXZxdhXWx6/giphy.gif" width="600px">
+</p>
+
 🖥️ **Retro Websites**  
 🎮 **Glitchy Games**  
 💾 **Pixel Art Animation**  
@@ -48,6 +52,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=santhosh0928&show_icons=true&theme=radical&hide_border=true" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh0928&theme=radical&hide_border=true" width="48%">
+</p>
+
+---
+
+## **🎮 RETRO GAMING MODE**
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600px">
 </p>
 
 ---
@@ -76,7 +87,6 @@
 ---
 
 ## **💀 ERROR 404**
-**"The system has encountered a critical error..."**
 <p align="center">
   <img src="https://media.giphy.com/media/3oKIPCSX4UHmuT1iic/giphy.gif" width="400px">
 </p>
