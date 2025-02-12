@@ -1,47 +1,53 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3CB371&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Passionate+Developer;I+Love+Building+Cool+Projects!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2500&color=00FF00&center=true&vCenter=true&width=450&lines=👽+Welcome+to+My+Freaky+GitHub!;🚀+I+Live+to+Code!;🔥+I+Break+Things+&+Fix+Them!">
 </h1>
 
+---
+
+<h2 align="center">🛸 Freaky Vibes 🛸</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=3CB371&style=flat" alt="your-username" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600px">
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🚀 **Building Cool Projects**
-- 🛠 **Working with Modern Technologies**
-- 📫 **Reach me at:** [![Gmail Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:your.email@gmail.com)
+### **👾 About Me**
+- 🧠 **Think, Code, Break, Repeat.**  
+- 🚀 **Building Unstoppable AI & Web Apps.**  
+- 🎮 **Gamer, Developer & Coffee Addict.**  
 
 ---
 
-### 🚀 Tech Stack:
+### **🔥 Crazy Tech Stack**
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Code-React-61DAFB?style=flat&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Code-Node.js-339933?style=flat&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Cloud-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=yellow">
+  <img src="https://img.shields.io/badge/-React-black?style=flat&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=green">
+  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=blue">
+  <img src="https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=blue">
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### **🔮 Freaky GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=react&hide_border=true&background=0D1117" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=santhosh0928&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh0928&theme=tokyonight&hide_border=true" width="48%">
 </p>
 
 ---
 
-### 🎵 Vibes While Coding 🎵
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)
+### **🕹️ Glitchy Terminal**
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212482776-239626f5-01f3-4c1a-8a59-49869e998b54.gif" width="600px">
+</p>
 
 ---
 
-### 📬 Connect With Me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white"></a>
-</p>
+### **👁️ Matrix Mode**
+```css
+body {
+  background: black;
+  color: neonGreen;
+  animation: matrixRain 10s infinite;
+}
