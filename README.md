@@ -60,18 +60,6 @@
 
 ---
 
-## ✨ GitHub Stats & Streaks
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeesh&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeesh&theme=dracula" />
-</p>
-
----
-
 ## 🎬 Latest Animations
 
 <p align="center">
@@ -100,11 +88,12 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3q2Ip7FrmPEuP6P2/giphy.gif" width="400" alt="Retro Neon Grid"/>
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="400" alt="Retro Gaming"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Neon Tunnel"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="400" alt="Retro Cassette Tape"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/8UGGp7rQvfhe63HrTz/giphy.gif" width="400" alt="Old-School Monitor"/>
-  <img src="https://media.giphy.com/media/1msBXcxqUcrcO/giphy.gif" width="400" alt="80s Synthwave"/>
+  <img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" width="400" alt="Arcade Gaming"/>
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="400" alt="Retro Neon Grid"/>
 </p>
+
