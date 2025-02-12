@@ -1,55 +1,109 @@
 <!-- ███████████████████████████████████ -->
-<!-- 👽 SANDEEP’S ULTRA-FREAKY README 👽 -->
+<!-- 🚀 ULTRA RETRO GITHUB README 🚀 -->
 <!-- ███████████████████████████████████ -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00FF00&center=true&vCenter=true&width=600&lines=👾+Cyber+Code+Master!;🔥+Building+the+Future!;🚀+Breaking+Limits!;⚡+Unleashing+Creativity!;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=2500&color=FF00FF&center=true&vCenter=true&width=600&lines=🎮+WELCOME+TO+MY+GITHUB!;🔥+HACKER+MODE+ENGAGED!;💾+LOADING+NEON+FILES...;⚡+GLITCH+ANIMATIONS+ONLINE!;">
 </h1>
 
----
-
-## **🌌 Welcome to My Cyber Universe 🚀**
 <p align="center">
-  <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="600px">
+  <img src="https://media.giphy.com/media/TfX2SYz8F6mCjGySYh/giphy.gif" width="600px">
 </p>
 
 ---
 
-## **🔮 Tech Warlock Stack**
+## 🛠 **UNDER CONSTRUCTION**
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow">
-  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js&logoColor=green">
-  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=blue">
-  <img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&logoColor=blue">
+  <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-e1dc-4d9c-bf99-17f70dd64d98.gif" width="500px">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/master/files/under-construction.gif">
 </p>
 
 ---
 
-## **🛸 My Cyber Stats**
+## **🦄 I LOVE CODE & UNICORNS**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhosh0928&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh0928&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://media.giphy.com/media/13YPN3m74w5JwE/giphy.gif" width="100px">
+  <img src="https://media.giphy.com/media/3o7TKsQjFiJR9wbTxK/giphy.gif" width="100px">
 </p>
 
 ---
 
-## **👾 Glitchy Terminal**
+## **🔥 HACKER MODE ENGAGED**
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212482776-239626f5-01f3-4c1a-8a59-49869e998b54.gif" width="600px">
+  <img src="https://media.giphy.com/media/J3IX2hyEgPfdH9fXXD/giphy.gif" width="600px">
 </p>
 
 ---
 
-## **🌠 Live Cyber Feed**
-[![My Activity](https://activity-graph.herokuapp.com/graph?username=santhosh0928&theme=react-dark&hide_border=true)](https://github.com/santhosh0928)
+## 🚀 **Latest Cyber Projects**
+🖥️ **Retro Websites**  
+🎮 **Glitchy Games**  
+💾 **Pixel Art Animation**  
+🌐 **Hacking the Matrix**  
 
 ---
 
-## **🧩 HACKER MODE: MATRIX EFFECT**
-```css
-body {
-  background: black;
-  color: neonGreen;
-  animation: matrixRain 10s infinite;
-}
+## **📡 LIVE STATS**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=santhosh0928&show_icons=true&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh0928&theme=radical&hide_border=true" width="48%">
+</p>
+
+---
+
+## **🔥 BURNING EFFECTS**
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/199138068-0a7b7b75-e1dc-4d9c-bf99-17f70dd64d98.gif">
+</p>
+
+---
+
+## **📼 VINTAGE BADGES**
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows%2095-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MS%20DOS%20RULES-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Netscape%20Navigator-GREEN?style=for-the-badge">
+</p>
+
+---
+
+## **📟 LINKS**
+- 🕹️ My Portfolio: **Coming Soon**
+- 🔥 My Blog: **Still Loading...**
+- 💽 My Old School DOS Projects: **404 Not Found**
+
+---
+
+## **💀 ERROR 404**
+**"The system has encountered a critical error..."**
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPCSX4UHmuT1iic/giphy.gif" width="400px">
+</p>
+
+---
+
+## **🌎 FOLLOW ME**
+<p align="center">
+  <a href="https://www.linkedin.com/in/santhosh0928/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:santhoshsiva567@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white"></a>
+</p>
+
+---
+
+## **⚠️ FINAL WARNING**
+🛑 **"You are now in the Hacker Zone. Proceed at your own risk."** 🛑
+
+---
+
+## **💿 SYSTEM REBOOT**
+🎮 **Insert Coin to Continue...**  
+💾 **Press F to Pay Respects...**  
+🚀 **Launch the Cyber Universe!**  
+
+---
+
+## **👾 ENJOY YOUR GLITCHY, RETRO GITHUB README!**
+☠️ **"Santhosh0928 has entered the Matrix..."** ☠️
