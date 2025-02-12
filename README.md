@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Hey%20There!%20I'm%20Pradeesh&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=A%20Developer%20%26%20Tech%20Enthusiast&descAlignY=65&descAlign=50)
+
 
 ---
 
@@ -82,9 +82,6 @@
 
 ## 🔥 Retro Vibes
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oz8xLDG9y8JH82DU4/giphy.gif" width="400" />
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
