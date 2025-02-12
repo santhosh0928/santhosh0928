@@ -43,28 +43,8 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,html,css,js,ts,threejs,python,java,flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,html,css,js,ts,threejs,python,java,php-laravel,sql" />
 </p>
-
----
-
-## 🌟 Featured Projects
-
-### **Vaultix - Fintech App**
-🚀 A futuristic, **color-customizable** fintech app designed with user convenience in mind.
-
-🔗 [Check out the case study](https://yourportfolio.com/vaultix)  
-🎨 **Tech Used**: React, Framer, Lottie Animations
-
-![Vaultix Preview](https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif)
-
-### **Westayclose - Healthcare Web App**
-A healthcare platform ensuring easy **pharma, lab tests, and consultations**.
-
-🔗 [See Project](https://yourportfolio.com/westayclose)  
-🛠️ **Built With**: React.js, MongoDB, Tailwind, Spring Boot
-
-![Westayclose Preview](https://media.giphy.com/media/l41Yd0nTnoDPUy3hS/giphy.gif)
 
 ---
 
@@ -88,15 +68,13 @@ A healthcare platform ensuring easy **pharma, lab tests, and consultations**.
   <img src="https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif" width="500px"/>
 </p>
 
-🔗 **See More on My [Portfolio](https://pradeesh.com)**
 
 ---
 
 ## 📬 Let's Connect!
 
-💼 **Portfolio:** [pradeesh.com](https://pradeesh.com)  
-📧 **Email:** hello@pradeesh.com  
-🐦 **Twitter:** [@pradeesh_dev](https://twitter.com/pradeesh_dev)  
+📧 **Email:** santhoshsiva567@gmail.com  
+🐦 **LinkedIn:** www.linkedin.com/in/santhosh-d-166402228
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=200&section=footer)
 
