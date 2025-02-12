@@ -2,6 +2,22 @@
 
 ---
 
+<h1 align="center">WELCOME TO MY GITHUB PROFILE</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/4H3Ii5eLChYul9pP5a/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="100" />
+</p>
+
+---
+
+### 🚧 UNDER CONSTRUCTION 🚧
+
+![Under Construction](https://media.giphy.com/media/3o7TKQEn3lAy4WPJ1e/giphy.gif)
+
+---
+
 ### 🌟 Welcome to My GitHub Profile!
 > **Crafting Innovative & Scalable Solutions** ✨
 
@@ -83,3 +99,16 @@ A healthcare platform ensuring easy **pharma, lab tests, and consultations**.
 🐦 **Twitter:** [@pradeesh_dev](https://twitter.com/pradeesh_dev)  
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=200&section=footer)
+
+---
+
+## 🔥 Retro Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://yourretrobadgeurl.com/badge1.png" />
+  <img src="https://yourretrobadgeurl.com/badge2.png" />
+</p>
